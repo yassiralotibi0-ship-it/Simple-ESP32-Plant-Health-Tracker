@@ -12,6 +12,12 @@ A small plant monitor for a potted mint. It reads soil moisture, temperature and
 
 <p align="center"> <img width="1200" alt="screen_animation" src="https://github.com/user-attachments/assets/42695507-2801-4aaa-938f-5cb757a854f1" /> </p>
 
+### Picture
+<p align="center">
+  <img width="360" alt="device_photo" src="https://github.com/user-attachments/assets/255a53d4-d0a2-425e-91d7-4307b4b7e4d8" />
+</p>
+
+
 ## Features
 
 - Calibrated soil moisture (%) from a capacitive sensor
