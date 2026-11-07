@@ -240,6 +240,9 @@ The sensors are read once per loop. The plant animates 4 times per second inside
 
 ## Notifications (ntfy)
 
+<img width="1170" height="720" alt="photo_2026-11-07_22-36-47" src="https://github.com/user-attachments/assets/80ff7f71-723b-40cb-89e7-ea67e6bf2db2" />
+
+
 1. Install the ntfy app on your phone.
 2. Subscribe to your topic name. Use the same `TOPIC` as in `main.py`, and make it hard to guess, because anyone who knows it can read it.
 3. That's it. The board POSTs to `http://ntfy.sh/<TOPIC>`.
