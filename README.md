@@ -10,9 +10,7 @@ A small plant monitor for a potted mint. It reads soil moisture, temperature and
 
 ### Animation
 
-<p align="center">
-  <img width="320" alt="screen_animation" src="https://github.com/user-attachments/assets/42695507-2801-4aaa-938f-5cb757a854f1" />
-</p>
+<p align="center"> <img width="1200" alt="screen_animation" src="https://github.com/user-attachments/assets/42695507-2801-4aaa-938f-5cb757a854f1" /> </p>
 
 ## Features
 
