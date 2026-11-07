@@ -1,0 +1,13 @@
+from machine import ADC, Pin
+
+sensor = ADC(Pin(15))
+sensor.atten(ADC.ATTN_11DB)
+
+v1 = sensor.read_uv() / 1_000_000
+v2 = sensor.read_uv() / 1_000_000
+v3 = sensor.read_uv() / 1_000_000
+
+print(v1)
+print(v2)
+print(v3)
+print("avg:", (v1 + v2 + v3) / 3)
